@@ -3,7 +3,6 @@ Rencana Konten WPU
   *es6
   *framework javascript
    } vue
-   } react
 - Struktur Data Dasar
 - PHP Framework
   } laravel
